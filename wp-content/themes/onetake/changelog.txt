@@ -1,0 +1,95 @@
+===== Change Log =====
+
+= Version 1.2.7 =
+ * Fixed home page Section Background option issue
+
+= Version 1.2.6 =
+* Added typography options
+
+= Version 1.2.5 =
+* Added 'Delete section' function
+
+ Version 1.2.4
+ * Fixed single post meta date link 404 Not Found issue
+ 
+ Version 1.2.3 
+ * Improve the performance of video background
+ 
+ Version 1.2.2 
+ * Fixed blog archive month link 404 Not Found issues
+
+ Version 1.2.1 
+  * Added Top Bar
+  * Added Header Background option
+ 
+ Version 1.2.0 
+ * Removed related videos from the end of home page background video
+ * Fixed background video loop issue
+  
+ Version 1.1.9
+ * Added CSS for RTL
+ 
+ Version 1.1.8
+  * Fixed breadcrumb issue
+
+ Version 1.1.7
+  * Added Enable Query Loader option
+  * Fixed section title centered issue on mobile devices
+
+ Version 1.1.6
+ * Fixed nav menu issue on mobile devices
+ * Fixed homepage section title centered issue
+
+ Version 1.1.5
+ * Smooth page scroll optimization
+ 
+ Version 1.1.4
+ * Added smooth page scroll function
+ * Added jQuery page loader
+ * Update font awesome to 4.3.0 
+ 
+ Version 1.1.3
+ * Fixed customize Display Header Text issue
+ * Fixed duplicate title tag issue
+ 
+ Version 1.1.2
+ * Fixed homepage anchor issue
+ 
+ Version 1.1.1
+ * Data validation
+ * Compatible plugin Form Maker
+ 
+ Version 1.1.0
+ * Fixed homepage section title center issue
+ 
+ Version 1.0.9
+ * Video background optimization
+ * Fixed menu color option issue
+ * Fixed textdomain issue
+ * Added Footer Widget Area
+ * Added tag sidebar
+
+Version 1.0.8
+ * Added more color options
+ * Added footer background options
+ * Added Youtube video background loop option
+
+
+ Version 1.0.7
+* Fixed default volume issue in chrome
+* Added video background 'Seek To' option
+* Added theme support  "title-tag"
+* Added 'Hide Post Meta' option
+
+ Version 1.0.6
+* Fixed one page scroll issue when using slider
+* Fixed blog page responsive issue
+* Added video background default volum option
+
+ Version 1.0.5
+* Fixed JS issue
+
+ Version 1.0.4
+* Fonts optimization
+* Fixed embed overflow issue
+* Added blog tags meta

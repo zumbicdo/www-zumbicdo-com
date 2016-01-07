@@ -1,0 +1,12 @@
+/*
+Theme Name: Onetake Child
+Theme URI: http://www.hoothemes.com/themes/onetake.html
+Description: Child theme for the Onetake.
+Template: onetake
+Version: 1.0.0
+Author: Jason
+Author URI: http://www.hoothemes.com
+
+*/
+@import url("../onetake/style.css");
+header{ background:gray !important;}

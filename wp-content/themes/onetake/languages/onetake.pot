@@ -1,0 +1,599 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: onetake 1.0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-11-04 10:09+0800\n"
+"PO-Revision-Date: 2014-11-04 10:10+0800\n"
+"Last-Translator: shijun quan <support@hoosoft.com>\n"
+"Language-Team: Jason <support@hoosoft.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.6\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: onetake"
+
+
+#: admin/includes/class-options-framework-admin.php:90
+#: admin/includes/class-options-framework-admin.php:91
+msgid "Theme Options"
+msgstr ""
+
+#: admin/includes/class-options-framework-admin.php:198
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr ""
+
+#: admin/includes/class-options-framework-admin.php:230
+msgid "Default options restored."
+msgstr ""
+
+#: admin/includes/class-options-framework-admin.php:284
+msgid "Options saved."
+msgstr ""
+
+#: admin/includes/class-options-media-uploader.php:61
+msgid "No file chosen"
+msgstr ""
+
+#: admin/includes/class-options-media-uploader.php:64
+#: admin/includes/class-options-media-uploader.php:117
+msgid "Upload"
+msgstr ""
+
+#: admin/includes/class-options-media-uploader.php:66
+#: admin/includes/class-options-media-uploader.php:118
+msgid "Remove"
+msgstr ""
+
+#: admin/includes/class-options-media-uploader.php:69
+msgid "Upgrade your version of WordPress for full media support."
+msgstr ""
+
+#: admin/includes/class-options-media-uploader.php:93
+msgid "View File"
+msgstr ""
+
+#: admin/includes/class-options-sanitization.php:316
+msgid "No Repeat"
+msgstr ""
+
+#: admin/includes/class-options-sanitization.php:317
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: admin/includes/class-options-sanitization.php:318
+msgid "Repeat Vertically"
+msgstr ""
+
+#: admin/includes/class-options-sanitization.php:319
+msgid "Repeat All"
+msgstr ""
+
+#: admin/includes/class-options-sanitization.php:331
+msgid "Top Left"
+msgstr ""
+
+#: admin/includes/class-options-sanitization.php:332
+msgid "Top Center"
+msgstr ""
+
+#: admin/includes/class-options-sanitization.php:333
+msgid "Top Right"
+msgstr ""
+
+#: admin/includes/class-options-sanitization.php:334
+msgid "Middle Left"
+msgstr ""
+
+#: admin/includes/class-options-sanitization.php:335
+msgid "Middle Center"
+msgstr ""
+
+#: admin/includes/class-options-sanitization.php:336
+msgid "Middle Right"
+msgstr ""
+
+#: admin/includes/class-options-sanitization.php:337
+msgid "Bottom Left"
+msgstr ""
+
+#: admin/includes/class-options-sanitization.php:338
+msgid "Bottom Center"
+msgstr ""
+
+#: admin/includes/class-options-sanitization.php:339
+msgid "Bottom Right"
+msgstr ""
+
+#: admin/includes/class-options-sanitization.php:351
+msgid "Scroll Normally"
+msgstr ""
+
+#: admin/includes/class-options-sanitization.php:352
+msgid "Fixed in Place"
+msgstr ""
+
+#: admin/includes/class-options-sanitization.php:424
+msgid "Normal"
+msgstr ""
+
+#: admin/includes/class-options-sanitization.php:425
+msgid "Italic"
+msgstr ""
+
+#: admin/includes/class-options-sanitization.php:426
+msgid "Bold"
+msgstr ""
+
+#: admin/includes/class-options-sanitization.php:427
+msgid "Bold Italic"
+msgstr ""
+
+#: comments.php:8
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:17
+msgid "No comment"
+msgstr ""
+
+#: comments.php:17
+msgid "Has one comment"
+msgstr ""
+
+#: comments.php:17
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: comments.php:17
+#, php-format
+msgid "to &#8220;%s&#8221;"
+msgstr ""
+
+#: comments.php:18
+msgid "You can "
+msgstr ""
+
+#: comments.php:18
+msgid "leave a reply"
+msgstr ""
+
+#: comments.php:18
+msgid " or "
+msgstr ""
+
+#: comments.php:18
+msgid "Trackback"
+msgstr ""
+
+#: comments.php:18
+msgid "this post."
+msgstr ""
+
+#: comments.php:30
+msgid "Comment pages"
+msgstr ""
+
+#: comments.php:60
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: comments.php:67
+#: comments.php:84
+msgid "Name*"
+msgstr ""
+
+#: comments.php:68
+#: comments.php:88
+msgid "Email*"
+msgstr ""
+
+#: comments.php:69
+#: comments.php:92
+msgid "Website"
+msgstr ""
+
+#: comments.php:72
+msgid "Your email address will not be published."
+msgstr ""
+
+#: comments.php:75
+msgid "Write a Reply or Comment"
+msgstr ""
+
+#: comments.php:80
+msgid "Message*"
+msgstr ""
+
+#: content-article.php:24
+#: includes/breadcrumbs.php:899
+#: includes/breadcrumbs.php:925
+#: includes/breadcrumbs.php:937
+#: includes/breadcrumbs.php:959
+#: single.php:30
+msgid "Edit"
+msgstr ""
+
+#: content-article.php:30
+msgid "Read More"
+msgstr ""
+
+#: content-home.php:26
+#: page.php:26
+#: single.php:37
+msgid "Pages:"
+msgstr ""
+
+#: footer-onepage.php:21
+#: footer.php:21
+#, php-format
+msgid ""
+"Powered by <a href=\"%s\">WordPress</a>. Designed by <a href=\"%s\">Hoo "
+"Themes</a>."
+msgstr ""
+
+#: header-onepage.php:31
+#: header.php:30
+msgid "Toggle navigation"
+msgstr ""
+
+#: includes/breadcrumbs.php:147
+msgid "Browse:"
+msgstr ""
+
+#: includes/breadcrumbs.php:148
+#, fuzzy
+msgid "Home"
+msgstr "首页"
+
+#: includes/breadcrumbs.php:149
+msgid "404 Not Found"
+msgstr ""
+
+#: includes/breadcrumbs.php:150
+msgid "Archives"
+msgstr ""
+
+#: includes/breadcrumbs.php:152
+#, php-format
+msgid "Search results for &#8220;%s&#8221;"
+msgstr ""
+
+#: includes/breadcrumbs.php:154
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: includes/breadcrumbs.php:156
+#, php-format
+msgid "Minute %s"
+msgstr ""
+
+#: includes/breadcrumbs.php:158
+#, php-format
+msgid "Week %s"
+msgstr ""
+
+#: includes/breadcrumbs.php:919
+msgid "Split"
+msgstr ""
+
+#: includes/breadcrumbs.php:922
+msgid "Merge"
+msgstr ""
+
+#: includes/custom-functions.php:50
+#, php-format
+msgid "%s </cite><span class=\"says\">says:</span>"
+msgstr ""
+
+#: includes/custom-functions.php:52
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: includes/custom-functions.php:53
+msgid "(Edit)"
+msgstr ""
+
+#: includes/custom-functions.php:59
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: includes/custom-functions.php:92
+#, php-format
+msgid " Page %s "
+msgstr ""
+
+#: includes/custom-functions.php:177
+msgid "Quick Links"
+msgstr ""
+
+#: includes/theme-setup.php:22
+msgid "Primary Menu"
+msgstr ""
+
+#: includes/theme-setup.php:23
+msgid "One Page Menu"
+msgstr ""
+
+#: includes/theme-widgets.php:5
+msgid "Default Sidebar"
+msgstr ""
+
+#: includes/theme-widgets.php:13
+msgid "Displayed Everywhere"
+msgstr ""
+
+#: includes/theme-widgets.php:22
+msgid "Post Right Sidebar"
+msgstr ""
+
+#: includes/theme-widgets.php:31
+msgid "Page Right Sidebar"
+msgstr ""
+
+#: includes/theme-widgets.php:39
+msgid "Category Sidebar"
+msgstr ""
+
+#: includes/theme-widgets.php:47
+msgid "Tag Sidebar"
+msgstr ""
+
+#: includes/theme-widgets.php:55
+msgid "Archive Sidebar"
+msgstr ""
+
+#: includes/theme-widgets.php:63
+msgid "Search Sidebar"
+msgstr ""
+
+#: includes/theme-widgets.php:72
+msgid "Page 404 Right Sidebar"
+msgstr ""
+
+#: options.php:67
+msgid "General Options"
+msgstr ""
+
+#: options.php:71
+msgid "Upload Logo"
+msgstr ""
+
+#: options.php:77
+msgid "Favicon"
+msgstr ""
+
+#: options.php:78
+msgid ""
+"An icon associated with a URL that is variously displayed, as in a browser's "
+"address bar or next to the site name in a bookmark list. Learn more about <a "
+"href=\""
+msgstr ""
+
+#: options.php:83
+msgid "404 Page Content"
+msgstr ""
+
+#: options.php:93
+msgid "Custom CSS"
+msgstr ""
+
+#: options.php:94
+msgid ""
+"The following css code will add to the header before the closing &lt;/"
+"head&gt; tag."
+msgstr ""
+
+#: options.php:101
+#, fuzzy
+msgid "Home Page"
+msgstr "首页分栏"
+
+#: options.php:105
+msgid "Enable Featured Homepage"
+msgstr ""
+
+#: options.php:106
+msgid ""
+"Active featured homepage Layout.  The standardized way of creating Static "
+"Front Pages: <a href=\""
+msgstr ""
+
+#: options.php:112
+msgid "Number of Sections"
+msgstr ""
+
+#: options.php:113
+msgid "Select number of sections"
+msgstr ""
+
+#: options.php:122
+msgid "Video Background Options"
+msgstr ""
+
+#: options.php:123
+msgid "Section Background Video"
+msgstr ""
+
+#: options.php:123
+msgid "YouTube Video ID"
+msgstr ""
+
+#: options.php:125
+msgid "Display Buttons"
+msgstr ""
+
+#: options.php:125
+msgid "Display video control buttons."
+msgstr ""
+
+#: options.php:127
+msgid "No video background"
+msgstr ""
+
+#: options.php:133
+msgid "Video Background Section"
+msgstr ""
+
+#: options.php:135
+#: options.php:293
+#: options.php:335
+#: options.php:343
+#: options.php:350
+#: options.php:357
+#: options.php:364
+msgid "</div>"
+msgstr ""
+
+#: options.php:136
+msgid "Section 1 Content"
+msgstr ""
+
+#: options.php:136
+msgid "Content"
+msgstr ""
+
+#: options.php:136
+msgid "Slider"
+msgstr ""
+
+#: options.php:282
+msgid "Section Title"
+msgstr ""
+
+#: options.php:283
+#, fuzzy
+msgid "Title Color"
+msgstr "全局颜色"
+
+#: options.php:284
+#, fuzzy
+msgid "Title Border Color"
+msgstr "全局颜色"
+
+#: options.php:285
+#, fuzzy
+msgid "Content Color"
+msgstr "全局颜色"
+
+#: options.php:286
+msgid "Section ID"
+msgstr ""
+
+#: options.php:287
+msgid "Section Background"
+msgstr ""
+
+#: options.php:288
+msgid "100% Width Background Image"
+msgstr ""
+
+#: options.php:290
+msgid "Full Width"
+msgstr ""
+
+#: options.php:291
+msgid "Section Css Class"
+msgstr ""
+
+#: options.php:292
+msgid "Section Content"
+msgstr ""
+
+#: options.php:311
+msgid "Header"
+msgstr ""
+
+#: options.php:312
+#, fuzzy
+msgid "Nav Menu Color"
+msgstr "全局颜色"
+
+#: options.php:315
+msgid "Footer"
+msgstr ""
+
+#: options.php:319
+#, php-format
+msgid "Social Icon #%s"
+msgstr ""
+
+#: options.php:320
+#, php-format
+msgid "Social Title #%s"
+msgstr ""
+
+#: options.php:321
+#, php-format
+msgid "Social Link #%s"
+msgstr ""
+
+#: options.php:324
+msgid "Homepage Slider"
+msgstr ""
+
+#: options.php:327
+msgid "Slideshow"
+msgstr ""
+
+#: options.php:329
+msgid "Slide One"
+msgstr ""
+
+#: options.php:329
+#: options.php:337
+#: options.php:345
+#: options.php:352
+#: options.php:359
+msgid "<div class=\"options-section\"><h3 class=\"groupTitle\">"
+msgstr ""
+
+#: options.php:331
+#: options.php:339
+#: options.php:346
+#: options.php:353
+#: options.php:360
+msgid "Image"
+msgstr ""
+
+#: options.php:333
+#: options.php:341
+#: options.php:348
+#: options.php:355
+#: options.php:362
+msgid "Text"
+msgstr ""
+
+#: options.php:337
+msgid "Slide Two"
+msgstr ""
+
+#: options.php:345
+msgid "Slide Three"
+msgstr ""
+
+#: options.php:352
+msgid "Slide Four"
+msgstr ""
+
+#: options.php:359
+msgid "Slide Five"
+msgstr ""
+
+#: options.php:367
+msgid "Slide Time"
+msgstr ""
+
+#: options.php:367
+msgid ""
+"Milliseconds between the end of the sliding effect and the start of the nex "
+"one."
+msgstr ""
